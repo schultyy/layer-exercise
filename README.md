@@ -16,6 +16,7 @@ Here you should practise how to structure your application.
 
 5. Complete the `menu.rb` class so that in the end you can order articles, show all available articles, show shopping card and so on.
 
+6. Add a new option "Add milk to shopping cart" (because I always forget that) which will add milk to the database and therefore display it when I list all my items.
 
 Help:
 - [Lightning sessions Software architecture] (https://github.com/CodePadawans/lightning-sessions/blob/master/software_architecture.md)

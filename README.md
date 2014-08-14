@@ -16,3 +16,6 @@ Here you should practise how to structure your application.
 
 5. Complete the `menu.rb` class so that in the end you can order articles, show all available articles, show shopping card and so on.
 
+
+Help:
+- [Lightning sessions Software architecture] (https://github.com/CodePadawans/lightning-sessions/blob/master/software_architecture.md)

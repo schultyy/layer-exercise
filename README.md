@@ -18,5 +18,7 @@ Here you should practise how to structure your application.
 
 6. Add a new option "Add milk to shopping cart" (because I always forget that) which will add milk to the database and therefore display it when I list all my items.
 
+7. When a user tries to add an article to their shopping card which does not exist, the user should see an error that this is not possible.
+
 Help:
 - [Lightning sessions Software architecture] (https://github.com/CodePadawans/lightning-sessions/blob/master/software_architecture.md)
